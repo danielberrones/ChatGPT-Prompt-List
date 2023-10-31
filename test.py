@@ -18,5 +18,5 @@ def create_tkinter_window():
 
     window.mainloop()
 
-# Call the function to create the Tkinter window
+# Create Tkinter window
 create_tkinter_window()
